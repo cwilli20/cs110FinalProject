@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 /**
@@ -9,7 +8,7 @@ War Card Game
 
 This class uses the deck1 class and the card class to create a 52 card deck arraylist
 divide the deck into two separate decks of 26 for two players and then uses the two
-decks to play the card game war
+decks to play the card game war.
 */
 public class DeckDriver
 {
